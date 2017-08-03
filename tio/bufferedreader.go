@@ -1,4 +1,4 @@
-// Copyright 2015-2016 trivago GmbH
+// Copyright 2015-2016 gotokatsuya GmbH
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@ package tio
 import (
 	"bytes"
 	"encoding/binary"
-	"github.com/trivago/tgo/tstrings"
+	"github.com/gotokatsuya/tgo/tstrings"
 	"io"
 )
 

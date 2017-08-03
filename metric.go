@@ -1,4 +1,4 @@
-// Copyright 2015-2016 trivago GmbH
+// Copyright 2015-2016 gotokatsuya GmbH
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -25,8 +25,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/trivago/tgo/tcontainer"
-	"github.com/trivago/tgo/tmath"
+	"github.com/gotokatsuya/tgo/tcontainer"
+	"github.com/gotokatsuya/tgo/tmath"
 )
 
 const (

@@ -1,4 +1,4 @@
-// Copyright 2015-2016 trivago GmbH
+// Copyright 2015-2016 gotokatsuya GmbH
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -15,7 +15,7 @@
 package tsync
 
 import (
-	"github.com/trivago/tgo/terrors"
+	"github.com/gotokatsuya/tgo/terrors"
 )
 
 // LockedError is returned when an item has been encountered as locked
